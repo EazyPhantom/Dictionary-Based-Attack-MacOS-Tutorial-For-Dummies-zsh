@@ -22,10 +22,8 @@ https://github.com/EazyPhantom/Dictionary-Based-Attack-MacOS-Tutorial-For-Dummie
 
 Xcode
 https://developer.apple.com/xcode/
-
 Homebrew
 https://brew.sh/ 
-
 Mac Ports
 https://www.macports.org/
 
