@@ -1,5 +1,5 @@
 # Thank you from the editors
-Thank you for choosing this select tutorial for starting off on your basic knowledge hacking journey!
+We deeply appreciate you for choosing this select tutorial for starting off on your basic knowledge hacking journey!
 
 # Download
 https://github.com/EazyPhantom/Dictionary-Based-Attack-MacOS-Tutorial-For-Dummies-zsh/tree/dd6e341ddc9dd37ce29c9e3250f82f37157a2261/MacOS%20Tutorial%20(Bettercup%20%26%20Aircrack-ng)
