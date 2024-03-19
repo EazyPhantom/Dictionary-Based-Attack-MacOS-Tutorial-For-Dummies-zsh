@@ -10,7 +10,8 @@ Your decision to entrust us with your learning journey means a great deal to us,
 Once again, thank you for choosing us as your trusted resource. We're excited to embark on this journey with you and can't wait to see all that you'll accomplish.
 
 # Download
-https://github.com/EazyPhantom/Dictionary-Based-Attack-MacOS-Tutorial-For-Dummies-zsh/tree/dd6e341ddc9dd37ce29c9e3250f82f37157a2261/MacOS%20Tutorial%20(Bettercup%20%26%20Aircrack-ng)
+
+[Download the MacOS Tutorial (Bettercup & Aircrack-ng)](https://github.com/EazyPhantom/Dictionary-Based-Attack-MacOS-Tutorial-For-Dummies-zsh/tree/main/MacOS%20Tutorial%20(Bettercup%20%26%20Aircrack-ng))
 
 # Building
 
