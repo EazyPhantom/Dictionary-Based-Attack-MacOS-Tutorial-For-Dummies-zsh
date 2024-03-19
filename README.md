@@ -16,16 +16,9 @@ https://github.com/EazyPhantom/Dictionary-Based-Attack-MacOS-Tutorial-For-Dummie
 
 ## Requirements
 
- * Xcode (Apple Developer Tools) Installed
- * Homebrew Installed
- * Mac Ports Installed
-
-Xcode
-https://developer.apple.com/xcode/
-Homebrew
-https://brew.sh/ 
-Mac Ports
-https://www.macports.org/
+- [Xcode (Apple Developer Tools)](https://developer.apple.com/xcode/) Installed
+- [Homebrew](https://brew.sh/) Installed
+- [Mac Ports](https://www.macports.org/) Installed
 
 # Concerns
 If there are any issues or concerns you are free to contact the author. You are able to contact by a quick google search of social medias with the alias of the written author or by the information written in the provided text files.
