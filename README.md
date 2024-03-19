@@ -1,5 +1,5 @@
 # Thank you from the editors
-Dear [User/Community/Team],
+Dear r/hacking,
 
 On behalf of our dedicated team of editors, I wanted to extend a heartfelt thank you for choosing us as your companion on your journey into the world of hacking basics. It's truly an honor to be part of your learning experience, and we're thrilled to support you every step of the way.
 
