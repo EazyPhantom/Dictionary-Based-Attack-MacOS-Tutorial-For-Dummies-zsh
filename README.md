@@ -1,7 +1,8 @@
-# Thank you from the editors
+# Thank You from the Editors
+
 Dear members of the r/hacking community on Reddit,
 
-On behalf of our dedicated team of editors, I wanted to extend a heartfelt thank you for choosing us as your companion on your journey into the world of hacking basics. It's truly an honor to be part of your learning experience, and we're thrilled to support you every step of the way.
+On behalf of our dedicated team of editors, I want to extend a heartfelt thank you for choosing us as your companion on your journey into the world of hacking basics. It's truly an honor to be part of your learning experience, and we're thrilled to support you every step of the way.
 
 Starting off on any new endeavor can be both exciting and challenging, but we're here to provide you with the resources, guidance, and support you need to succeed. Whether you're diving into the fundamentals or exploring more advanced concepts, know that we're here to assist you in unlocking your potential and mastering the art of hacking.
 
@@ -12,7 +13,6 @@ Once again, thank you for choosing us as your trusted resource. We're excited to
 ## Description
 
 This project focuses on the usage of Homebrew and Bettercap for launching a dictionary-based attack on a WiFi network, along with providing additional information such as downloading the tutorial, contributing guidelines, licensing, credits, and contact details.
-
 
 # Download
 
@@ -32,7 +32,8 @@ This project focuses on the usage of Homebrew and Bettercap for launching a dict
 
 - **Credits**: Special thanks to [EazyPhantom](https://github.com/EazyPhantom/) for providing the tutorial.
 
-- **Contact**: For inquiries or feedback, please contact the author by the provided [Email](mailto:eazyphantombooking@gmail.com).
+- **Contact**: For inquiries or feedback, please contact the author at [eazyphantombooking@gmail.com](mailto:eazyphantombooking@gmail.com).
 
 # Concerns
-If there are any issues or concerns you are free to contact the author. You are able to contact by the provided [Email](mailto:eazyphantombooking@gmail.com) or a quick google search through social media with the alias of the written author or by the information written in the provided text files.
+
+If there are any issues or concerns, feel free to contact the author via the provided [email](mailto:eazyphantombooking@gmail.com) or through social media using the author's alias or the information provided in the text files.
