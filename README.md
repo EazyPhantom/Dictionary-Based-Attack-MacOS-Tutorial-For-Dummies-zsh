@@ -9,11 +9,14 @@ Your decision to entrust us with your learning journey means a great deal to us,
 
 Once again, thank you for choosing us as your trusted resource. We're excited to embark on this journey with you and can't wait to see all that you'll accomplish.
 
+## Description
+
+This tutorial focuses on the usage of Homebrew and Bettercap for launching a dictionary-based attack on a WiFi network, along with providing additional information such as downloading the tutorial, contributing guidelines, licensing, credits, and contact details.
+
+
 # Download
 
 [Download the MacOS Tutorial (Bettercup & Aircrack-ng)](https://github.com/EazyPhantom/Dictionary-Based-Attack-MacOS-Tutorial-For-Dummies-zsh/tree/main/MacOS%20Tutorial%20(Bettercup%20%26%20Aircrack-ng))
-
-# Building
 
 ## Requirements
 
@@ -21,5 +24,15 @@ Once again, thank you for choosing us as your trusted resource. We're excited to
 - [Homebrew](https://brew.sh/) Installed
 - [Mac Ports](https://www.macports.org/) Installed
 
+## Additional Information
+
+- **Contributing**: Contributions are welcome! Please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines.
+
+- **License**: This project is licensed under the [MIT License](LICENSE).
+
+- **Credits**: Special thanks to EazyPhantom for providing the tutorial.
+
+- **Contact**: For inquiries or feedback, please contact the author at this [Email](mailto:eazyphantombooking@gmail.com).
+
 # Concerns
-If there are any issues or concerns you are free to contact the author. You are able to contact by a quick google search of social medias with the alias of the written author or by the information written in the provided text files.
+If there are any issues or concerns you are free to contact the author. You are able to contact by this [Email](mailto:eazyphantombooking@gmail.com) or a quick google search through social media with the alias of the written author or by the information written in the provided text files.
