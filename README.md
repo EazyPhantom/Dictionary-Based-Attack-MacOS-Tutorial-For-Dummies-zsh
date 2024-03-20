@@ -11,7 +11,7 @@ Once again, thank you for choosing us as your trusted resource. We're excited to
 
 ## Description
 
-This tutorial focuses on the usage of Homebrew and Bettercap for launching a dictionary-based attack on a WiFi network, along with providing additional information such as downloading the tutorial, contributing guidelines, licensing, credits, and contact details.
+This project focuses on the usage of Homebrew and Bettercap for launching a dictionary-based attack on a WiFi network, along with providing additional information such as downloading the tutorial, contributing guidelines, licensing, credits, and contact details.
 
 
 # Download
@@ -26,11 +26,11 @@ This tutorial focuses on the usage of Homebrew and Bettercap for launching a dic
 
 ## Additional Information
 
-- **Contributing**: Contributions are welcome! Please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines.
+- **Contributing**: Contributions are not open as of right now.
 
-- **License**: This project is licensed under the [MIT License](LICENSE).
+- **License**: This project is licensed under the [BSD-3-Clause License](LICENSE).
 
-- **Credits**: Special thanks to EazyPhantom for providing the tutorial.
+- **Credits**: Special thanks to [EazyPhantom](https://github.com/EazyPhantom/) for providing the tutorial.
 
 - **Contact**: For inquiries or feedback, please contact the author at this [Email](mailto:eazyphantombooking@gmail.com).
 
