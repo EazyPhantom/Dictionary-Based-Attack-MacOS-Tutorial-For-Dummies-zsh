@@ -36,4 +36,4 @@ This project focuses on the usage of Homebrew and Bettercap for launching a dict
 
 ## Conclusion
 
-Thank you for taking the time to explore our project! We hope that it provides valuable insights and resources to support your journey. Feel free to reach out if you have any questions or feedback via the provided [email](mailto:eazyphantombooking@gmail.com) or [social media](https://linktr.ee/eazyphantom). Additional information provided in the text files. Happy hacking!
+Thank you for taking the time to explore our project! We hope that it provides valuable insights and resources to support your journey. Feel free to reach out if you have any questions or feedback via the provided [email](mailto:eazyphantombooking@gmail.com) or by [social media](https://linktr.ee/eazyphantom). Additional information provided in the text files. Happy hacking!
