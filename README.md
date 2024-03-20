@@ -34,6 +34,6 @@ This project focuses on the usage of Homebrew and Bettercap for launching a dict
 
 - **Contact**: For inquiries or feedback, please contact the author via the provided [email](mailto:eazyphantombooking@gmail.com).
 
-# Concerns
+## Conclusion
 
-If there are any issues or concerns, feel free to contact the author via the provided [email](mailto:eazyphantombooking@gmail.com) or through social media using the author's alias or the information provided in the text files.
+Thank you for taking the time to explore our project! We hope that it provides valuable insights and resources to support your journey. Feel free to reach out if you have any questions or feedback via the provided [email](mailto:eazyphantombooking@gmail.com) or through [social media](https://linktr.ee/eazyphantom). Additional information provided in the text files. Happy hacking!
